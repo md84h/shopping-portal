@@ -1,0 +1,37 @@
+html,
+body {
+  height: 100%;
+}
+#wrap {
+  min-height: 100%;
+  height: auto;
+  margin: 0 auto -60px;
+  padding: 0 0 60px;
+}
+#footer {
+  height: 60px;
+  background-color: #f5f5f5;
+}
+.container {
+  width: auto;
+  max-width: 100%;
+  padding: 0 15px;
+}
+#list{
+ margin-left:35%;
+ margin-top:2%;
+ clear:both;
+}
+#list li{
+    display: inline-block;
+    margin-left: 20px;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+#ques{
+    color:black;
+}
+.list-style{
+    font-size:18px;
+}
